@@ -82,7 +82,7 @@ endmodule
  ```
  
 **Logic symbol & Truthtable**
-![alt text](wave-1.png)
+![alt text](<waveform output-1.png>)
 
 **RTL realization Output:** 
 ![alt text](<logic gates-1.png>)
